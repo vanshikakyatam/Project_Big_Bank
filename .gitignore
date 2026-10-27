@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+enterprise_database.db
+server_logs (1).txt
+daily_exchange_rates.csv
+desktop.ini
+
+Student_work_file (1).ipynb
+scripts/
+
